@@ -1,0 +1,887 @@
+Vodafone Test Data Generation app listening on port 8081!
+::1 - - [26/Jun/2017:11:53:50 +0000] "GET / HTTP/1.1" 200 7059 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:53:51 +0000] "GET /ui/index.css HTTP/1.1" 200 12653 "http://localhost:8081/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:53:51 +0000] "GET /ui/alertify.core.css HTTP/1.1" 200 3569 "http://localhost:8081/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:53:51 +0000] "GET /ui/jquery-3.1.1.min.js HTTP/1.1" 200 86709 "http://localhost:8081/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:53:51 +0000] "GET /ui/alertify.default.css HTTP/1.1" 200 2552 "http://localhost:8081/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:53:51 +0000] "GET /ui/alertify.min.js HTTP/1.1" 200 7541 "http://localhost:8081/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:53:51 +0000] "GET /ui/index.png HTTP/1.1" 200 2508 "http://localhost:8081/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:53:51 +0000] "GET /ui/main.js HTTP/1.1" 200 623488 "http://localhost:8081/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:53:51 +0000] "GET /ui/m_1.jpg HTTP/1.1" 200 32257 "http://localhost:8081/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:53:51 +0000] "GET /ui/m_2.jpg HTTP/1.1" 200 51751 "http://localhost:8081/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:53:51 +0000] "GET /ui/m_3.jpg HTTP/1.1" 200 51851 "http://localhost:8081/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:53:51 +0000] "GET /ui/m_4.jpg HTTP/1.1" 200 60405 "http://localhost:8081/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:53:51 +0000] "GET /favicon.ico HTTP/1.1" 200 502 "http://localhost:8081/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:09 +0000] "GET / HTTP/1.1" 200 7635 "http://localhost:8081/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:09 +0000] "GET /ui/index.css HTTP/1.1" 304 - "http://localhost:8081/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:09 +0000] "GET /ui/alertify.core.css HTTP/1.1" 304 - "http://localhost:8081/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:09 +0000] "GET /ui/alertify.default.css HTTP/1.1" 304 - "http://localhost:8081/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:09 +0000] "GET /ui/jquery-3.1.1.min.js HTTP/1.1" 304 - "http://localhost:8081/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:09 +0000] "GET /ui/alertify.min.js HTTP/1.1" 304 - "http://localhost:8081/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:09 +0000] "GET /ui/main.js HTTP/1.1" 304 - "http://localhost:8081/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:09 +0000] "GET /ui/index.png HTTP/1.1" 304 - "http://localhost:8081/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:09 +0000] "GET /ui/m_1.jpg HTTP/1.1" 304 - "http://localhost:8081/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:09 +0000] "GET /ui/m_2.jpg HTTP/1.1" 304 - "http://localhost:8081/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:09 +0000] "GET /ui/m_3.jpg HTTP/1.1" 304 - "http://localhost:8081/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:09 +0000] "GET /ui/m_4.jpg HTTP/1.1" 304 - "http://localhost:8081/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+arunganesha@maveric-systems.com|admin|AG
+::1 - - [26/Jun/2017:11:54:09 +0000] "GET /getusername HTTP/1.1" 200 8 "http://localhost:8081/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:12 +0000] "GET /USAGECDRGENERATION.html HTTP/1.1" 200 16036 "http://localhost:8081/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:12 +0000] "GET /ui/jquery-3.1.1.min.js HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:12 +0000] "GET /ui/index.css HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:12 +0000] "GET /ui/alertify.core.css HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:12 +0000] "GET /ui/alertify.default.css HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:12 +0000] "GET /ui/alertify.min.js HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:12 +0000] "GET /ui/normalize.css HTTP/1.1" 200 7248 "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:12 +0000] "GET /ui/main.js HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:12 +0000] "GET /ui/selectize.css HTTP/1.1" 200 8867 "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:12 +0000] "GET /ui/selectize.js HTTP/1.1" 200 107221 "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:12 +0000] "GET /ui/datetimepicker_css.js HTTP/1.1" 200 39297 "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:12 +0000] "GET /ui/index.png HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:13 +0000] "GET /ui/images2/cal.gif HTTP/1.1" 200 127 "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:13 +0000] "GET /ui/more.png HTTP/1.1" 200 4920 "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:13 +0000] "GET /ui/copy.png HTTP/1.1" 200 1237 "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:13 +0000] "GET /ui/delete.png HTTP/1.1" 200 2280 "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:13 +0000] "GET /ui/add.png HTTP/1.1" 200 940 "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:13 +0000] "GET /ui/loading.gif HTTP/1.1" 200 114222 "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+arunganesha@maveric-systems.com|admin|AG
+::1 - - [26/Jun/2017:11:54:13 +0000] "GET /getusername HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+211
+::1 - - [26/Jun/2017:11:54:13 +0000] "GET /getntwrkcountry HTTP/1.1" 200 5070 "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+211
+::1 - - [26/Jun/2017:11:54:13 +0000] "GET /getntwrkcountry HTTP/1.1" 200 5070 "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+10
+::1 - - [26/Jun/2017:11:54:13 +0000] "GET /getopco HTTP/1.1" 200 326 "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+6
+::1 - - [26/Jun/2017:11:54:13 +0000] "GET /getProposition HTTP/1.1" 200 179 "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:17 +0000] "GET /BulkUploadCDR.html HTTP/1.1" 200 6691 "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:17 +0000] "GET /ui/index.css HTTP/1.1" 304 - "http://localhost:8081/BulkUploadCDR.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:17 +0000] "GET /ui/alertify.core.css HTTP/1.1" 304 - "http://localhost:8081/BulkUploadCDR.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:17 +0000] "GET /ui/alertify.default.css HTTP/1.1" 304 - "http://localhost:8081/BulkUploadCDR.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:17 +0000] "GET /ui/jquery-3.1.1.min.js HTTP/1.1" 304 - "http://localhost:8081/BulkUploadCDR.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:17 +0000] "GET /ui/alertify.min.js HTTP/1.1" 304 - "http://localhost:8081/BulkUploadCDR.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:17 +0000] "GET /ui/main.js HTTP/1.1" 304 - "http://localhost:8081/BulkUploadCDR.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:54:17 +0000] "GET /ui/index.png HTTP/1.1" 304 - "http://localhost:8081/BulkUploadCDR.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+arunganesha@maveric-systems.com|admin|AG
+::1 - - [26/Jun/2017:11:54:17 +0000] "GET /getusername HTTP/1.1" 304 - "http://localhost:8081/BulkUploadCDR.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+arunganesha@maveric-systems.com|admin|AG
+::1 - - [26/Jun/2017:11:54:17 +0000] "GET /admin HTTP/1.1" 200 4 "http://localhost:8081/BulkUploadCDR.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+1
+::1 - - [26/Jun/2017:11:54:17 +0000] "POST /gettemplates HTTP/1.1" 200 46 "http://localhost:8081/BulkUploadCDR.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+10
+::1 - - [26/Jun/2017:11:54:17 +0000] "GET /getopco HTTP/1.1" 304 - "http://localhost:8081/BulkUploadCDR.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+Update Done
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+Update Done
+inserting Data into DB
+CSA_UK
+102
+::1 - - [26/Jun/2017:11:55:17 +0000] "POST /uploadcdr?retval=United%20Kingdom|CSA HTTP/1.1" 200 66330 "http://localhost:8081/BulkUploadCDR.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|New
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|New
+
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|Complete
+
+
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|Complete
+
+
+Update Done
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+All is well
+OK read the Master Temp file !!
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|Complete
+
+
+Status
+usercdr20170626172430|United Kingdom|CSA|Complete
+
+
+usercdr20170626172537|United Kingdom|CSA|Complete
+
+
+Update Done
+inserting Data into DB
+CSA_UK
+102
+::1 - - [26/Jun/2017:11:55:47 +0000] "POST /uploadcdr?retval=United%20Kingdom|CSA HTTP/1.1" 200 66330 "http://localhost:8081/BulkUploadCDR.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:14 +0000] "GET /PROVISIONING.html HTTP/1.1" 200 47977 "http://localhost:8081/BulkUploadCDR.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:14 +0000] "GET /ui/index.css HTTP/1.1" 304 - "http://localhost:8081/PROVISIONING.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:14 +0000] "GET /ui/alertify.core.css HTTP/1.1" 304 - "http://localhost:8081/PROVISIONING.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:14 +0000] "GET /ui/alertify.default.css HTTP/1.1" 304 - "http://localhost:8081/PROVISIONING.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:14 +0000] "GET /ui/selectize.css HTTP/1.1" 304 - "http://localhost:8081/PROVISIONING.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:14 +0000] "GET /ui/normalize.css HTTP/1.1" 304 - "http://localhost:8081/PROVISIONING.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:14 +0000] "GET /ui/jquery-3.1.1.min.js HTTP/1.1" 304 - "http://localhost:8081/PROVISIONING.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:14 +0000] "GET /ui/selectize.js HTTP/1.1" 304 - "http://localhost:8081/PROVISIONING.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:14 +0000] "GET /ui/alertify.min.js HTTP/1.1" 304 - "http://localhost:8081/PROVISIONING.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:14 +0000] "GET /ui/main.js HTTP/1.1" 304 - "http://localhost:8081/PROVISIONING.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:14 +0000] "GET /ui/datetimepicker_css.js HTTP/1.1" 304 - "http://localhost:8081/PROVISIONING.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:15 +0000] "GET /ui/index.png HTTP/1.1" 304 - "http://localhost:8081/PROVISIONING.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:15 +0000] "GET /ui/images2/cal.gif HTTP/1.1" 304 - "http://localhost:8081/PROVISIONING.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:15 +0000] "GET /ui/copy.png HTTP/1.1" 304 - "http://localhost:8081/PROVISIONING.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:15 +0000] "GET /ui/add.png HTTP/1.1" 304 - "http://localhost:8081/PROVISIONING.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:15 +0000] "GET /ui/delete.png HTTP/1.1" 304 - "http://localhost:8081/PROVISIONING.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:15 +0000] "GET /ui/loading.gif HTTP/1.1" 304 - "http://localhost:8081/PROVISIONING.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+arunganesha@maveric-systems.com|admin|AG
+::1 - - [26/Jun/2017:11:56:15 +0000] "GET /getusername HTTP/1.1" 304 - "http://localhost:8081/PROVISIONING.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+14
+::1 - - [26/Jun/2017:11:56:15 +0000] "GET /getPropositionTYPE HTTP/1.1" 200 526 "http://localhost:8081/PROVISIONING.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+row-length:-9
+::1 - - [26/Jun/2017:11:56:15 +0000] "GET /getGermany_mac_usecase HTTP/1.1" 200 247 "http://localhost:8081/PROVISIONING.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+14
+::1 - - [26/Jun/2017:11:56:15 +0000] "GET /getPropositionTYPE HTTP/1.1" 304 - "http://localhost:8081/PROVISIONING.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+10
+::1 - - [26/Jun/2017:11:56:15 +0000] "GET /getopco HTTP/1.1" 304 - "http://localhost:8081/PROVISIONING.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:20 +0000] "GET /USAGECDRGENERATION.html HTTP/1.1" 304 - "http://localhost:8081/PROVISIONING.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:20 +0000] "GET /ui/jquery-3.1.1.min.js HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:20 +0000] "GET /ui/index.css HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:20 +0000] "GET /ui/alertify.core.css HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:20 +0000] "GET /ui/alertify.default.css HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:20 +0000] "GET /ui/selectize.js HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:20 +0000] "GET /ui/selectize.css HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:20 +0000] "GET /ui/normalize.css HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:20 +0000] "GET /ui/alertify.min.js HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:20 +0000] "GET /ui/main.js HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:20 +0000] "GET /ui/datetimepicker_css.js HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:20 +0000] "GET /ui/index.png HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:20 +0000] "GET /ui/images2/cal.gif HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:20 +0000] "GET /ui/more.png HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:20 +0000] "GET /ui/copy.png HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:20 +0000] "GET /ui/add.png HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:20 +0000] "GET /ui/delete.png HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+::1 - - [26/Jun/2017:11:56:20 +0000] "GET /ui/loading.gif HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+arunganesha@maveric-systems.com|admin|AG
+::1 - - [26/Jun/2017:11:56:20 +0000] "GET /getusername HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+6
+::1 - - [26/Jun/2017:11:56:20 +0000] "GET /getProposition HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+211
+::1 - - [26/Jun/2017:11:56:20 +0000] "GET /getntwrkcountry HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+10
+::1 - - [26/Jun/2017:11:56:20 +0000] "GET /getopco HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+211
+::1 - - [26/Jun/2017:11:56:20 +0000] "GET /getntwrkcountry HTTP/1.1" 304 - "http://localhost:8081/USAGECDRGENERATION.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+Vodafone Test Data Generation app listening on port 8081!
+Vodafone Test Data Generation app listening on port 8081!

@@ -1,0 +1,40 @@
+Mon, 26 Jun 2017 11:51:59 GMT express-session deprecated undefined resave option; provide resave option at server.js:16:9
+Mon, 26 Jun 2017 11:51:59 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:16:9
+SyntaxError: Unexpected end of JSON input
+    at Object.parse (native)
+    at D:\TAT\server.js:53:22
+    at Layer.handle [as handle_request] (D:\TAT\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\TAT\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (D:\TAT\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\TAT\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\TAT\node_modules\express\lib\router\index.js:271:10)
+    at jsonParser (D:\TAT\node_modules\body-parser\lib\types\json.js:112:7)
+    at Layer.handle [as handle_request] (D:\TAT\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\TAT\node_modules\express\lib\router\index.js:312:13)
+    at D:\TAT\node_modules\express\lib\router\index.js:280:7
+    at next (D:\TAT\node_modules\express\lib\router\index.js:271:10)
+    at Layer.handle [as handle_request] (D:\TAT\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\TAT\node_modules\express\lib\router\index.js:312:13)
+    at D:\TAT\node_modules\express\lib\router\index.js:280:7
+    at next (D:\TAT\node_modules\express\lib\router\index.js:271:10)
+SyntaxError: Unexpected end of JSON input
+    at Object.parse (native)
+    at D:\TAT\server.js:53:22
+    at Layer.handle [as handle_request] (D:\TAT\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\TAT\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (D:\TAT\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\TAT\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\TAT\node_modules\express\lib\router\index.js:271:10)
+    at jsonParser (D:\TAT\node_modules\body-parser\lib\types\json.js:112:7)
+    at Layer.handle [as handle_request] (D:\TAT\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\TAT\node_modules\express\lib\router\index.js:312:13)
+    at D:\TAT\node_modules\express\lib\router\index.js:280:7
+    at next (D:\TAT\node_modules\express\lib\router\index.js:271:10)
+    at Layer.handle [as handle_request] (D:\TAT\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\TAT\node_modules\express\lib\router\index.js:312:13)
+    at D:\TAT\node_modules\express\lib\router\index.js:280:7
+    at next (D:\TAT\node_modules\express\lib\router\index.js:271:10)
+Tue, 27 Jun 2017 07:01:03 GMT express-session deprecated undefined resave option; provide resave option at server.js:16:9
+Tue, 27 Jun 2017 07:01:03 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:16:9
+Wed, 28 Jun 2017 07:08:17 GMT express-session deprecated undefined resave option; provide resave option at server.js:16:9
+Wed, 28 Jun 2017 07:08:17 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:16:9
