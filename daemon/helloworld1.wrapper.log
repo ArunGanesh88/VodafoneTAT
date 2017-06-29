@@ -1,0 +1,41 @@
+2017-06-26 17:21:51 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\TAT\node_modules\node-windows\lib\wrapper.js --file D:\TAT\server.js --log "Hello World1 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-06-26 17:21:51 - Started 6892
+2017-06-26 20:42:48 - Stopping helloworld1.exe
+2017-06-26 20:42:49 - ProcessKill 6892
+2017-06-26 20:42:54 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-06-27 12:30:52 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\TAT\node_modules\node-windows\lib\wrapper.js --file D:\TAT\server.js --log "Hello World1 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-06-27 12:30:52 - Started 1196
+2017-06-27 19:19:15 - Stopping helloworld1.exe
+2017-06-27 19:19:15 - ProcessKill 1196
+2017-06-27 19:19:30 - Shutdown exception
+Message:Provider load failure 
+Stacktrace:   at System.Management.ManagementException.ThrowWithExtendedInfo(ManagementStatus errorCode)
+   at System.Management.ManagementObjectCollection.ManagementObjectEnumerator.MoveNext()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-06-28 12:38:07 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\TAT\node_modules\node-windows\lib\wrapper.js --file D:\TAT\server.js --log "Hello World1 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-06-28 12:38:07 - Started 1260
+2017-06-28 18:58:51 - Stopping helloworld1.exe
+2017-06-28 18:58:51 - ProcessKill 1260
+2017-06-28 18:58:54 - Found child process: 1768 Name: node.exe
+2017-06-28 18:58:54 - Stopping process 1768
+2017-06-28 18:58:54 - Send SIGINT 1768
+2017-06-28 18:58:54 - SIGINT to 1768 failed - Killing as fallback
+2017-06-28 18:58:54 - Stopping process 1260
+2017-06-28 18:58:54 - Send SIGINT 1260
+2017-06-28 18:58:55 - SIGINT to1260 successful
+2017-06-28 18:58:55 - Finished helloworld1.exe
+2017-06-29 13:17:56 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\TAT\node_modules\node-windows\lib\wrapper.js --file D:\TAT\server.js --log "Hello World1 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-06-29 13:17:56 - Started 1096
