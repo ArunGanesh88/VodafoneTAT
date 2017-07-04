@@ -192,3 +192,41 @@ Version: '5.0.51b-community-nt'  socket: ''  port: 3306  MySQL Community Edition
 
 170626 20:42:47 [Note] D:\TAT\phpCollab-xampp\mysql\bin\mysqld-nt: Shutdown complete
 
+170701 13:13:57 [Note] D:\TAT\phpCollab-xampp\mysql\bin\mysqld-nt: ready for connections.
+Version: '5.0.51b-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170701 22:53:29 [Note] D:\TAT\phpCollab-xampp\mysql\bin\mysqld-nt: Normal shutdown
+
+170701 22:53:30 [Note] D:\TAT\phpCollab-xampp\mysql\bin\mysqld-nt: Shutdown complete
+
+170702 20:11:52 [Note] D:\TAT\phpCollab-xampp\mysql\bin\mysqld-nt: ready for connections.
+Version: '5.0.51b-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170703 12:06:08 [Note] D:\TAT\phpCollab-xampp\mysql\bin\mysqld-nt: ready for connections.
+Version: '5.0.51b-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170703 13:19:07 [Note] D:\TAT\phpCollab-xampp\mysql\bin\mysqld-nt: ready for connections.
+Version: '5.0.51b-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+Can't start server: Bind on TCP/IP port: Invalid argument
+170703 15:28:15 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+170703 15:28:15 [ERROR] Aborting
+
+170703 15:28:15 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+Can't start server: Bind on TCP/IP port: Invalid argument
+170703 15:29:12 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+170703 15:29:12 [ERROR] Aborting
+
+170703 15:29:12 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+Can't start server: Bind on TCP/IP port: Invalid argument
+170703 15:33:24 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+170703 15:33:24 [ERROR] Aborting
+
+170703 15:33:24 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+Can't start server: Bind on TCP/IP port: Invalid argument
+170703 15:49:11 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+170703 15:49:11 [ERROR] Aborting
+
+170703 15:49:11 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+170704 12:36:23 [Note] D:\TAT\phpCollab-xampp\mysql\bin\mysqld-nt: ready for connections.
+Version: '5.0.51b-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)

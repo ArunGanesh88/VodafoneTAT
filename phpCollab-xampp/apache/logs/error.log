@@ -1694,3 +1694,75 @@ Child 1080: Child process is running
 [Mon Jun 26 17:23:29 2017] [notice] Child 7132: Starting 250 worker threads.
 [Mon Jun 26 17:23:29 2017] [notice] Child 7132: Starting thread to listen on port 443.
 [Mon Jun 26 17:23:29 2017] [notice] Child 7132: Starting thread to listen on port 80.
+[Sat Jul 01 13:13:25 2017] [warn] pid file D:/TAT/phpCollab-xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jul 01 13:13:29 2017] [notice] Apache/2.2.9 (Win32) DAV/2 mod_ssl/2.2.9 OpenSSL/0.9.8h mod_autoindex_color PHP/5.2.6 configured -- resuming normal operations
+[Sat Jul 01 13:13:29 2017] [notice] Server built: Jun 14 2008 19:02:12
+[Sat Jul 01 13:13:29 2017] [notice] Parent: Created child process 4428
+[Sat Jul 01 13:13:30 2017] [notice] Child 4428: Child process is running
+[Sat Jul 01 13:13:30 2017] [notice] Child 4428: Acquired the start mutex.
+[Sat Jul 01 13:13:30 2017] [notice] Child 4428: Starting 250 worker threads.
+[Sat Jul 01 13:13:30 2017] [notice] Child 4428: Starting thread to listen on port 443.
+[Sat Jul 01 13:13:30 2017] [notice] Child 4428: Starting thread to listen on port 80.
+[Sun Jul 02 20:11:10 2017] [warn] pid file D:/TAT/phpCollab-xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jul 02 20:11:26 2017] [notice] Apache/2.2.9 (Win32) DAV/2 mod_ssl/2.2.9 OpenSSL/0.9.8h mod_autoindex_color PHP/5.2.6 configured -- resuming normal operations
+[Sun Jul 02 20:11:26 2017] [notice] Server built: Jun 14 2008 19:02:12
+[Sun Jul 02 20:11:26 2017] [notice] Parent: Created child process 1736
+[Sun Jul 02 20:11:28 2017] [notice] Child 1736: Child process is running
+[Sun Jul 02 20:11:28 2017] [notice] Child 1736: Acquired the start mutex.
+[Sun Jul 02 20:11:28 2017] [notice] Child 1736: Starting 250 worker threads.
+[Sun Jul 02 20:11:28 2017] [notice] Child 1736: Starting thread to listen on port 443.
+[Sun Jul 02 20:11:28 2017] [notice] Child 1736: Starting thread to listen on port 80.
+[Mon Jul 03 12:05:27 2017] [warn] pid file D:/TAT/phpCollab-xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jul 03 12:05:36 2017] [notice] Apache/2.2.9 (Win32) DAV/2 mod_ssl/2.2.9 OpenSSL/0.9.8h mod_autoindex_color PHP/5.2.6 configured -- resuming normal operations
+[Mon Jul 03 12:05:36 2017] [notice] Server built: Jun 14 2008 19:02:12
+[Mon Jul 03 12:05:36 2017] [notice] Parent: Created child process 1896
+[Mon Jul 03 12:05:37 2017] [notice] Child 1896: Child process is running
+[Mon Jul 03 12:05:37 2017] [notice] Child 1896: Acquired the start mutex.
+[Mon Jul 03 12:05:37 2017] [notice] Child 1896: Starting 250 worker threads.
+[Mon Jul 03 12:05:37 2017] [notice] Child 1896: Starting thread to listen on port 443.
+[Mon Jul 03 12:05:37 2017] [notice] Child 1896: Starting thread to listen on port 80.
+[Mon Jul 03 13:18:56 2017] [warn] pid file D:/TAT/phpCollab-xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jul 03 13:18:58 2017] [notice] Apache/2.2.9 (Win32) DAV/2 mod_ssl/2.2.9 OpenSSL/0.9.8h mod_autoindex_color PHP/5.2.6 configured -- resuming normal operations
+[Mon Jul 03 13:18:58 2017] [notice] Server built: Jun 14 2008 19:02:12
+[Mon Jul 03 13:18:58 2017] [notice] Parent: Created child process 1924
+[Mon Jul 03 13:18:59 2017] [notice] Child 1924: Child process is running
+[Mon Jul 03 13:18:59 2017] [notice] Child 1924: Acquired the start mutex.
+[Mon Jul 03 13:18:59 2017] [notice] Child 1924: Starting 250 worker threads.
+[Mon Jul 03 13:18:59 2017] [notice] Child 1924: Starting thread to listen on port 443.
+[Mon Jul 03 13:18:59 2017] [notice] Child 1924: Starting thread to listen on port 80.
+[Mon Jul 03 15:27:27 2017] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 03 15:27:27 2017] [notice] Child 1924: Exit event signaled. Child process is ending.
+[Mon Jul 03 15:27:28 2017] [notice] Child 1924: Released the start mutex
+[Mon Jul 03 15:27:31 2017] [notice] Child 1924: All worker threads have exited.
+[Mon Jul 03 15:27:40 2017] [notice] Child 1924: Child process is exiting
+[Mon Jul 03 15:27:42 2017] [notice] Parent: Child process exited successfully.
+[Mon Jul 03 15:28:20 2017] [error] Init: SSLPassPhraseDialog builtin is not supported on Win32 (key file D:/TAT/phpCollab-xampp/apache/conf/ssl.key/vgebillingtat.key)
+[Mon Jul 03 15:29:12 2017] [error] Init: SSLPassPhraseDialog builtin is not supported on Win32 (key file D:/TAT/phpCollab-xampp/apache/conf/ssl.key/vgebillingtat.key)
+[Mon Jul 03 15:29:20 2017] [error] Init: SSLPassPhraseDialog builtin is not supported on Win32 (key file D:/TAT/phpCollab-xampp/apache/conf/ssl.key/vgebillingtat.key)
+[Mon Jul 03 15:33:24 2017] [error] Init: SSLPassPhraseDialog builtin is not supported on Win32 (key file D:/TAT/phpCollab-xampp/apache/conf/ssl.key/vgebillingtat.key)
+[Mon Jul 03 15:49:12 2017] [warn] RSA server certificate CommonName (CN) `vgebillingtat.vodafone.com' does NOT match server name!?
+[Mon Jul 03 15:49:12 2017] [warn] RSA server certificate CommonName (CN) `vgebillingtat.vodafone.com' does NOT match server name!?
+[Mon Jul 03 15:49:17 2017] [notice] Apache/2.2.9 (Win32) DAV/2 mod_ssl/2.2.9 OpenSSL/0.9.8h mod_autoindex_color PHP/5.2.6 configured -- resuming normal operations
+[Mon Jul 03 15:49:17 2017] [notice] Server built: Jun 14 2008 19:02:12
+[Mon Jul 03 15:49:17 2017] [notice] Parent: Created child process 1600
+[Mon Jul 03 15:49:18 2017] [warn] RSA server certificate CommonName (CN) `vgebillingtat.vodafone.com' does NOT match server name!?
+[Mon Jul 03 15:49:18 2017] [warn] RSA server certificate CommonName (CN) `vgebillingtat.vodafone.com' does NOT match server name!?
+[Mon Jul 03 15:49:18 2017] [notice] Child 1600: Child process is running
+[Mon Jul 03 15:49:18 2017] [notice] Child 1600: Acquired the start mutex.
+[Mon Jul 03 15:49:18 2017] [notice] Child 1600: Starting 250 worker threads.
+[Mon Jul 03 15:49:18 2017] [notice] Child 1600: Starting thread to listen on port 443.
+[Mon Jul 03 15:49:18 2017] [notice] Child 1600: Starting thread to listen on port 80.
+[Mon Jul 03 15:49:46 2017] [error] [client 127.0.0.1] File does not exist: D:/TAT/phpCollab-xampp/htdocs/favicon.ico, referer: https://localhost/
+[Tue Jul 04 12:35:36 2017] [warn] RSA server certificate CommonName (CN) `vgebillingtat.vodafone.com' does NOT match server name!?
+[Tue Jul 04 12:35:37 2017] [warn] pid file D:/TAT/phpCollab-xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jul 04 12:35:37 2017] [warn] RSA server certificate CommonName (CN) `vgebillingtat.vodafone.com' does NOT match server name!?
+[Tue Jul 04 12:35:50 2017] [notice] Apache/2.2.9 (Win32) DAV/2 mod_ssl/2.2.9 OpenSSL/0.9.8h mod_autoindex_color PHP/5.2.6 configured -- resuming normal operations
+[Tue Jul 04 12:35:50 2017] [notice] Server built: Jun 14 2008 19:02:12
+[Tue Jul 04 12:35:50 2017] [notice] Parent: Created child process 556
+[Tue Jul 04 12:35:51 2017] [warn] RSA server certificate CommonName (CN) `vgebillingtat.vodafone.com' does NOT match server name!?
+[Tue Jul 04 12:35:52 2017] [warn] RSA server certificate CommonName (CN) `vgebillingtat.vodafone.com' does NOT match server name!?
+[Tue Jul 04 12:35:52 2017] [notice] Child 556: Child process is running
+[Tue Jul 04 12:36:04 2017] [notice] Child 556: Acquired the start mutex.
+[Tue Jul 04 12:36:04 2017] [notice] Child 556: Starting 250 worker threads.
+[Tue Jul 04 12:36:04 2017] [notice] Child 556: Starting thread to listen on port 443.
+[Tue Jul 04 12:36:04 2017] [notice] Child 556: Starting thread to listen on port 80.
