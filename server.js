@@ -6709,7 +6709,7 @@ app.get('/get_type_desc_IE',function (req, res) {
 var port = 8081; // Use 8080 for local development because you might already have apache running on 80
 https.createServer(httpsOptions, app).listen(8081,function () {
  console.log('Vodafone Test Data Generation app listening on port '+port+'!')});
-//var port = 8080; // Use 8080 for local development because you might already have apache running on 80
-//app.listen(8080, function () {
-//  console.log('Vodafone Test Data Generation app listening on port '+port+'!');
-//});
+var port = 8082; // Use 8080 for local development because you might already have apache running on 80
+app.listen(8082, function () {
+  console.log('Vodafone Test Data Generation app listening on port '+port+'!');
+});

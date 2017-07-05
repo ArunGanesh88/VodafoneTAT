@@ -230,3 +230,9 @@ Can't start server: Bind on TCP/IP port: Invalid argument
 
 170704 12:36:23 [Note] D:\TAT\phpCollab-xampp\mysql\bin\mysqld-nt: ready for connections.
 Version: '5.0.51b-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170704 20:20:22 [Note] D:\TAT\phpCollab-xampp\mysql\bin\mysqld-nt: Normal shutdown
+
+170704 20:20:29 [Note] D:\TAT\phpCollab-xampp\mysql\bin\mysqld-nt: Shutdown complete
+
+170705 13:45:35 [Note] D:\TAT\phpCollab-xampp\mysql\bin\mysqld-nt: ready for connections.
+Version: '5.0.51b-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)

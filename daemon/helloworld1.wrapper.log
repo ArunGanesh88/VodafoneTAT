@@ -112,3 +112,18 @@ Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInter
 2017-07-03 14:02:05 - Finished helloworld1.exe
 2017-07-04 12:35:40 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\TAT\node_modules\node-windows\lib\wrapper.js --file D:\TAT\server.js --log "Hello World1 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
 2017-07-04 12:35:46 - Started 1212
+2017-07-04 20:20:41 - Stopping helloworld1.exe
+2017-07-04 20:20:41 - ProcessKill 1212
+2017-07-04 20:20:43 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2017-07-05 13:43:04 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\TAT\node_modules\node-windows\lib\wrapper.js --file D:\TAT\server.js --log "Hello World1 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-07-05 13:43:05 - Started 1400
