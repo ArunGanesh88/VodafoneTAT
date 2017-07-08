@@ -236,3 +236,15 @@ Version: '5.0.51b-community-nt'  socket: ''  port: 3306  MySQL Community Edition
 
 170705 13:45:35 [Note] D:\TAT\phpCollab-xampp\mysql\bin\mysqld-nt: ready for connections.
 Version: '5.0.51b-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170705 19:55:14 [Note] D:\TAT\phpCollab-xampp\mysql\bin\mysqld-nt: Normal shutdown
+
+170705 19:55:16 [Note] D:\TAT\phpCollab-xampp\mysql\bin\mysqld-nt: Shutdown complete
+
+170707 13:43:55 [Note] D:\TAT\phpCollab-xampp\mysql\bin\mysqld-nt: ready for connections.
+Version: '5.0.51b-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170707 19:59:48 [Note] D:\TAT\phpCollab-xampp\mysql\bin\mysqld-nt: Normal shutdown
+
+170707 19:59:49 [Note] D:\TAT\phpCollab-xampp\mysql\bin\mysqld-nt: Shutdown complete
+
+170708 17:09:06 [Note] D:\TAT\phpCollab-xampp\mysql\bin\mysqld-nt: ready for connections.
+Version: '5.0.51b-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
