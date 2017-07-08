@@ -5979,3 +5979,8 @@
 127.0.0.1 - - [03/Jul/2017:15:49:53 +0530] "GET /Adminer/adminer.css HTTP/1.1" 200 6077 "https://localhost/Adminer/VodafoneAdmin.php" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
 127.0.0.1 - - [03/Jul/2017:15:49:53 +0530] "GET /Adminer/VodafoneAdmin.php?file=functions.js&version=4.2.5 HTTP/1.1" 200 23891 "https://localhost/Adminer/VodafoneAdmin.php" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
 127.0.0.1 - - [03/Jul/2017:15:49:53 +0530] "GET /Adminer/VodafoneAdmin.php?file=favicon.ico&version=4.2.5 HTTP/1.1" 200 318 "https://localhost/Adminer/VodafoneAdmin.php" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+127.0.0.1 - - [08/Jul/2017:18:01:06 +0530] "GET / HTTP/1.1" 200 855
+127.0.0.1 - - [08/Jul/2017:18:01:06 +0530] "GET /icons/blank.gif HTTP/1.1" 200 148
+127.0.0.1 - - [08/Jul/2017:18:01:07 +0530] "GET /icons/folder.gif HTTP/1.1" 200 225
+127.0.0.1 - - [08/Jul/2017:18:01:07 +0530] "GET /icons/unknown.gif HTTP/1.1" 200 245
+127.0.0.1 - - [08/Jul/2017:18:01:07 +0530] "GET /favicon.ico HTTP/1.1" 404 1240
