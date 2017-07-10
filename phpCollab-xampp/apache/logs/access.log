@@ -5984,3 +5984,4 @@
 127.0.0.1 - - [08/Jul/2017:18:01:07 +0530] "GET /icons/folder.gif HTTP/1.1" 200 225
 127.0.0.1 - - [08/Jul/2017:18:01:07 +0530] "GET /icons/unknown.gif HTTP/1.1" 200 245
 127.0.0.1 - - [08/Jul/2017:18:01:07 +0530] "GET /favicon.ico HTTP/1.1" 404 1240
+127.0.0.1 - - [10/Jul/2017:12:26:31 +0530] "GET /Bonobo.Git.Server/VodafoneTAT.git/info/refs?service=git-upload-pack HTTP/1.1" 404 1118
