@@ -154,3 +154,5 @@ Stacktrace:   at System.Management.ManagementException.ThrowWithExtendedInfo(Man
    at winsw.WrapperService.OnShutdown()
 2017-07-08 17:08:15 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\TAT\node_modules\node-windows\lib\wrapper.js --file D:\TAT\server.js --log "Hello World1 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
 2017-07-08 17:08:15 - Started 1984
+2017-07-10 12:14:26 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\TAT\node_modules\node-windows\lib\wrapper.js --file D:\TAT\server.js --log "Hello World1 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-07-10 12:14:30 - Started 3160
